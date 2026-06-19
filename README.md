@@ -2,11 +2,6 @@
 
 Cloud-native ETL pipeline for NYC Uber taxi trip data built on the modern GCP data stack: Python data modelling, Mage.ai orchestration, BigQuery analytics warehouse, and Looker Studio dashboard.
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
-[![Mage](https://img.shields.io/badge/Mage.ai-000000?style=for-the-badge)](https://mage.ai)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishdeepak/)
-
 ---
 
 ## Architecture
